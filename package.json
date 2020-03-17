@@ -41,7 +41,7 @@
     "typescript": "^2.6.2",
     "vinyl": "^2.1.0",
     "xml2js": "^0.4.19",
-    "yargs": "^10.1.1"
+    "yargs": "^13.1.0"
   },
   "scripts": {
     "prepare": "tsc -p ./src",
